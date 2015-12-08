@@ -1,7 +1,7 @@
 # What_to_eat_on_Friday
 Commit what would you like to eat on Friday afternoon, and the choose will make you fat.
 
-Add your code between **the anti quotation** marks below
+Add your code between **the anti quotation marks/the code area** below
 
 ```
 
