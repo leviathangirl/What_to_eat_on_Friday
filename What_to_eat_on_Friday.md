@@ -3,12 +3,16 @@ Commit what would you like to eat on Friday afternoon, and the choose will make 
 
 Add your code between **the anti quotation marks/the code area** below
 
-----
+---
 ```
 吃什么，就是什么——xsq
-
 ```
-----
+
+---
+我不吃这个->:hankey:——qz
+
+---
+
 ```
               ,-------------------.
              ( Tried it, loved it! )
