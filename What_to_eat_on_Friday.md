@@ -4,14 +4,28 @@ Commit what would you like to eat on Friday afternoon, and the choose will make 
 Add your code between **the anti quotation marks/the code area** below
 
 ---
-```
-吃什么，就是什么——xsq
-```
+
+圣诞节就吃
+                    :christmas_tree:
+                  :christmas_tree::christmas_tree:
+                :christmas_tree::christmas_tree::christmas_tree:
+              :christmas_tree::christmas_tree::christmas_tree::christmas_tree:
+            :christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree:
+          :christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree:
+        :christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree:
+      :christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree:
+    :christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree:
+  :christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree:
+:christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree::christmas_tree:
+
+--吴海明
 
 ---
 我不吃这个->:hankey:——qz
 
 ---
+
+
 
 ```
               ,-------------------.
