@@ -3,6 +3,9 @@ Commit what would you like to eat on Friday afternoon, and the choose will make 
 
 Add your code between **the anti quotation marks/the code area** below
 
+哈哈哈，我来了
+
+            ----李明远
 ---
 
 圣诞节就吃
