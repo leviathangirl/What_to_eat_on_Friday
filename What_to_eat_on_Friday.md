@@ -3,6 +3,8 @@ Commit what would you like to eat on Friday afternoon, and the choose will make 
 
 Add your code between **the anti quotation marks/the code area** below
 
+![image](https://github.com/Crown-H/pic/blob/master/cat.jpg)
+		-----王冠华
 
 ---
 哈哈哈，我来了
